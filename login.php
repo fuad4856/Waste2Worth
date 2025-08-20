@@ -35,4 +35,4 @@ if (isset($_POST['login'])) {
 </form>
 <a href="register.php">Register</a>
 </body>
-</html>
+</html>// do it
